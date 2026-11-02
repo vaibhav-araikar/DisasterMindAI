@@ -1,4 +1,3 @@
-Bhai, copy the entire command below and paste it directly into PowerShell. It will create `README.md` inside `D:\DisasterMind-AI`.
 
 ````
 cd D:\DisasterMind-AI
